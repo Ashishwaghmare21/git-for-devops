@@ -1,6 +1,6 @@
              Repository Initialization
              
-git init                     # Initialize a new Git repository
+git init                  # Initialize a new Git repository
 git clone <url>              # Clone an existing repository
 
                 Staging & Committing
